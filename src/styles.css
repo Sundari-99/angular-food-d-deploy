@@ -2,3 +2,7 @@
 .bg{
     height:100%;
 }
+.text{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+}
